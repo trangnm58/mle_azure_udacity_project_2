@@ -7,7 +7,7 @@ The [Bank Marketing dataset](https://automlsamplenotebookdata.blob.core.windows.
 
 The image below shows the Architectural Diagram of the project, which train a ML model to predict bank marketing campaign data using AutoML. The model will be consumed by the REST endpoint. The pipeline encapsulate all the steps in order to automatically trigger a new experiment run and deploy the newly trained model to the same endpoint for continuous consumption and improvement.
 
-![Architectural Diagram of the project](./Architectural Diagram.png)
+![Architectural Diagram of the project](./ArchitecturalDiagram.png)
 
 ## Key Steps
 ### 1. Create and run Auto ML Experiment
